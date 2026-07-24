@@ -1,0 +1,5 @@
+pennylane>=0.35
+torch>=2.0
+gymnasium>=0.29
+numpy>=1.24
+matplotlib>=3.7
